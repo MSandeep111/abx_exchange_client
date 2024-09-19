@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABX_Client_App", "ABX_Client_App\ABX_Client_App.csproj", "{B8C02B16-4CE5-44D0-8A41-424E1F413DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C02B16-4CE5-44D0-8A41-424E1F413DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C02B16-4CE5-44D0-8A41-424E1F413DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C02B16-4CE5-44D0-8A41-424E1F413DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C02B16-4CE5-44D0-8A41-424E1F413DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {128DD505-2A63-4D4A-9B74-3B5797F7CC83}
+	EndGlobalSection
+EndGlobal
